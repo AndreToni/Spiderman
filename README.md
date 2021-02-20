@@ -1,2 +1,2 @@
 # Spiderman
-Projeto realizado utilizando as tecnologias HTML, CSS, SASS
+Projeto realizado utilizando as tecnologias HTML, CSS, SASS, JavaScript
